@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Esther 👋
 
-<!--
-**Cyber-Esther/Cyber-Esther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Cybersecurity Professional | Currently learning on TryHackMe
 
-Here are some ideas to get you started:
+## About Me
+- Based in Nigeria, open to **remote internships**
+- Currently studying on **TryHackMe beginner paths**
+- Interests: Cybersecurity, Threat Hunting, and Network Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Journey
+- TryHackMe → learning and practicing beginner rooms
+- Forage Virtual Internships → (Planned)
+- IBM SkillsBuild → (Planned)
+
+Learning in public — follow my journey!
